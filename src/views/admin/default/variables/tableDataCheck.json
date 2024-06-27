@@ -1,0 +1,32 @@
+[
+  {
+    "date": "12 Jan 2021",
+    "type": "Buy",
+    "value": "$1500",
+    "status": "Completed"
+  },
+  {
+    "date": "21 Feb 2021",
+    "type": "Sell",
+    "value": "$3000",
+    "status": "Pending"
+  },
+  {
+    "date": "13 Mar 2021",
+    "type": "Exchange",
+    "value": "$500",
+    "status": "Failed"
+  },
+  {
+    "date": "24 Jan 2021",
+    "type": "Buy",
+    "value": "$2000",
+    "status": "Completed"
+  },
+  {
+    "date": "24 Oct 2022",
+    "type": "Sell",
+    "value": "$750",
+    "status": "Completed"
+  }
+]
