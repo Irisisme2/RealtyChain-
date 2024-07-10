@@ -1,4 +1,4 @@
-"RealEstateToken"  🏠🔗💼
+"RealtyChain "  🏠🔗💼
 is an innovative platform enabling real estate tokenization using blockchain technology. Our goal is to democratize access to the real estate market by digitizing and fragmenting owned assets, allowing individual investors to participate in what traditionally has been reserved for financial institutions.
 
 ### Features 🛠️📊🔐
